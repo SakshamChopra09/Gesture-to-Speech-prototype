@@ -12,3 +12,6 @@ Arduino
 
 One of the gesture looks like this:  
 ![Gesture](https://user-images.githubusercontent.com/54466170/131534047-b0dbd953-cc56-4667-86ab-937610ea7801.png)
+
+# Demonstration Video
+https://drive.google.com/file/d/1A9n7UHrGtt59COzgMZp46FNMgvcHKDM_/view?usp=sharing
